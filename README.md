@@ -10,11 +10,9 @@ Welcome. Budget Butler is  React/Redux web application that allows users to trac
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Getting Started
-Clone the project and run `npm install` to download the necessary modules. Or view here, https://budgetbutler.co
+After following the directions from the Rails API repository, clone this project and run `npm install` to download the necessary modules. Then `npm start` to serve the files to a localport. Or view here, https://budgetbutler.co
 
 ## Created by
 * **Franco Cappitta** - https://github.com/Franco84
 * **David Weinstein** - https://github.com/dwein9 
 * **Jonathan Zylberberg** - https://github.com/ZylberbergJ23
-
-
